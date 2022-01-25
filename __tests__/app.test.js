@@ -11,4 +11,5 @@ describe('backend routes', () => {
   afterAll(() => {
     pool.end();
   });
+  it.skip()
 });
