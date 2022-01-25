@@ -17,3 +17,27 @@ That this idea seems cool in theory and it is from NASA, but not maintained near
 6. What could be improved?
 An explaination of what they mean by "start" and "end" date would have been helpful.
 
+
+
+
+#Twilio API
+1. Is it well-documented?
+It is well documented. The docs are straight forward and pretty easy to follow. 
+
+2. Is it well-supported?
+It is well supported. Easy to hit too. 
+
+3. Is it widely used? (Things you might check: GitHub stars/watchers, search engine results, recent updates)
+It does look like it is widely use, the correct link comes up in the searches. 
+
+4. Is it intuitive to use?
+Kind of, the issue we ran into was figuring out the phone-number stuff. 
+
+5. What is the most interesting/exciting thing you discovered about the service?
+It was fun to figure out how to get both of these things working together
+
+6. What could be improved?
+A bit more of an explanation on the phone number trial would've been helpful 
+
+
+
