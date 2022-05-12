@@ -11,8 +11,9 @@ describe('backend routes', () => {
   afterAll(() => {
     pool.end();
   });
-  it('does 1 equal one?', () => {
-    expect(1).toEqual(1);
-  })
- 
+
+ it('does 1 equal 1?', () => {
+   expect(1).toEqual(1);
+ })
+
 });
